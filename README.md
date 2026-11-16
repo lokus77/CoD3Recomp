@@ -1,5 +1,7 @@
 # CoD3Recomp
 
+Versión parcheada por claude con soporte de la iso CASTELLANO /FRANCES / ITALIANO!!! 
+
 > **Still in development: bugs can and will occur.** A build ready to play,
 > with your own Xbox 360 disc image, is on the
 > [releases page](https://github.com/FrankHUN88453/CoD3Recomp/releases).
