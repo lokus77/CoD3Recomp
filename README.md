@@ -32,7 +32,7 @@ Activision and Treyarch logos, the attract loop and each mission's
 briefing, through the title's own player, with Space (the A button) to
 skip them.
 
-![Saint-Lô, the rifle training](preview.png)
+![Saint-Lô, the rifle training](cod3.png)
 
 ### Keys and mouse
 
